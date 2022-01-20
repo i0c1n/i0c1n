@@ -2,7 +2,7 @@
 
 ## About Me:  
 I am french studient in network and telecomunications at **Afpa training center, in France**. </br>
-I am Linux addict :unix: and cybersec autodictact training.
+I am Linux addict :linux: and cybersec autodictact training.
 
 
 ## How to reach me
