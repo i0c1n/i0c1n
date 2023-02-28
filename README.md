@@ -1,7 +1,7 @@
 # Hi there, I am i0c1n  
 
 ## About Me:  
-I am french studient in network and telecomunications at **Afpa training center, in France**. </br>
+I am french computer technician. </br>
 I am Linux addict 💻 and cybersec autodictact training.
 
 
